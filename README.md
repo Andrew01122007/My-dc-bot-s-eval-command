@@ -15,3 +15,7 @@
 for i in range(10):  
 &emsp;await ctx.send("笑死")  
 \`\`\`
+
+# 版本
+discord py 2.2.3
+python 3.10 (能跑discord py就好
